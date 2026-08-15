@@ -10,7 +10,7 @@ DB = BASE / "data" / "market.db"
 BAOFU_DATA = BASE / "data" / "baofuju.json"
 BAOFU_SOURCES = BASE / "data" / "baofuju_sources.json"
 
-app = FastAPI(title="洪盛集藏资讯网", version="2.3")
+app = FastAPI(title="洪盛集藏资讯网", version="2.4")
 app.mount("/static", StaticFiles(directory=BASE / "static"), name="static")
 
 def db():
@@ -38,6 +38,10 @@ def startup():
 @app.get("/")
 def home():
     return FileResponse(BASE / "static" / "index.html")
+
+@app.get("/en")
+def english_home():
+    return FileResponse(BASE / "static" / "index-en.html")
 
 @app.get("/baofuju")
 def baofuju_page():
