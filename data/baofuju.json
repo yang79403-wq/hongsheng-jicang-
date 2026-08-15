@@ -1,0 +1,65 @@
+{
+  "title": "福建钱币｜咸丰宝福局专题数据库",
+  "description": "洪盛集藏福建钱币资料库核心专题，重点整理咸丰时期宝福局铜钱、版式、计重、历史与公开资料。",
+  "status": "资料整理中",
+  "items": [
+    {
+      "name": "咸丰重宝 宝福 当五十",
+      "category": "咸丰宝福局",
+      "material": "铜",
+      "denomination": "当五十",
+      "diameter_mm": 57,
+      "weight_g": 105,
+      "features": "面文咸丰重宝，背宝福及五十，并见计重文字；作为宝福局咸丰大钱研究案例。",
+      "source": "中国国家博物馆公开藏品资料",
+      "research_status": "标准案例"
+    },
+    {
+      "name": "咸丰宝福当百",
+      "category": "咸丰宝福局",
+      "material": "铜",
+      "denomination": "当百",
+      "features": "重点建立面背文字、穿郭、尺寸重量、铜质及版别图片档案。",
+      "research_status": "待持续补充"
+    },
+    {
+      "name": "咸丰宝福当五",
+      "category": "咸丰宝福局",
+      "material": "铜",
+      "denomination": "当五",
+      "features": "整理普通版、特殊版式及尺寸重量差异。",
+      "research_status": "待持续补充"
+    },
+    {
+      "name": "咸丰宝福当十",
+      "category": "咸丰宝福局",
+      "material": "铜",
+      "denomination": "当十",
+      "features": "建立版式、钱文、铜质、穿口和铸造特征资料。",
+      "research_status": "待持续补充"
+    },
+    {
+      "name": "宝福局计重系列",
+      "category": "咸丰宝福局",
+      "material": "铜",
+      "denomination": "计重钱",
+      "features": "重点记录背文计重、尺寸、重量及不同版式。",
+      "research_status": "专题整理"
+    }
+  ],
+  "categories": [
+    "福建铸钱史",
+    "宝福局历史",
+    "咸丰宝福通宝",
+    "咸丰宝福当五",
+    "咸丰宝福当十",
+    "咸丰宝福当二十",
+    "咸丰宝福当五十",
+    "咸丰宝福当百",
+    "宝福局计重系列",
+    "宝福局版别数据库",
+    "福建铜钱图库",
+    "公开拍卖成交资料",
+    "钱币文献资料"
+  ]
+}
