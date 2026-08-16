@@ -1,0 +1,10 @@
+{
+  "updated_at":"2026-08-16 00:00:00",
+  "title":"洪盛集藏·福建钱币资料库",
+  "notice":"只做资料收集、实物图片资料、历史整理、版别分析与学习研究，不采集成交价或求购价。",
+  "source_policy":"仅收录中国大陆来源；台湾地区及无法稳定访问来源不进入自动采集池。图片仅在明确开放授权、自有或获授权时本地展示。",
+  "records":[
+    {"name":"福建官局造光绪元宝当十铜元","category":"福建铜元","period":"1900-1905","source":"中国国家博物馆","source_url":"https://www.chnmuseum.cn/zp/zpml/hb/202106/t20210610_250327.shtml","features":"面文福建官局造、光绪元宝、每枚当钱十文；中心满文宝福；背面蟠龙，上缘FOO-KIEN，下缘10 CASHES。","image_status":"source-page-only"},
+    {"name":"福建铸币历史与银元资料","category":"福建铸币历史","period":"清末至民国","source":"福建省地方志编纂委员会","source_url":"https://data.fjdsfzw.org.cn/upload/Annals/2011/%E9%87%91%E8%9E%8D%E5%BF%97/epub/ops/14.htm","features":"福建地方志金融志相关公开资料，用于整理福建自铸钱币、福建官局及清末民国金融铸币历史。","image_status":"source-page-only"}
+  ]
+}
