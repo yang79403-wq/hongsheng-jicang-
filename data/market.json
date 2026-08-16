@@ -1,0 +1,10 @@
+{
+  "updated_at":"2026-08-16 00:00:00",
+  "status":"waiting_for_verified_sources",
+  "records":[],
+  "sources":[
+    {"name":"一尘网","url":"http://www.pm001.net/","status":"pending"},
+    {"name":"钱币天堂","url":"https://www.yy11.com/c2c/forum/4.html","status":"pending"}
+  ],
+  "notice":"机器人自动检查公开来源；没有真实、可核验的成交/求购价格时不编造数据。"
+}
