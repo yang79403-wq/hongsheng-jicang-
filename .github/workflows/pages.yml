@@ -24,10 +24,11 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Prepare root site
         run: |
+          rm -rf _site
           mkdir -p _site
-          cp index.html _site/index.html
-          cp fujian-coin.html _site/fujian-coin.html
-          cp -r data _site/data
+          cp -r static/. _site/
+          if [ -d "data" ]; then cp -r data _site/data; fi
+          if [ -f "fujian-coin.html" ]; then cp fujian-coin.html _site/fujian-coin.html; fi
           touch _site/.nojekyll
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
