@@ -29,6 +29,8 @@ jobs:
           cp -r static/. _site/
           if [ -d "data" ]; then cp -r data _site/data; fi
           if [ -f "fujian-coin.html" ]; then cp fujian-coin.html _site/fujian-coin.html; fi
+          if [ -f "admin.html" ]; then cp admin.html _site/admin.html; fi
+          if [ -d "admin" ]; then cp -r admin _site/admin; fi
           touch _site/.nojekyll
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
