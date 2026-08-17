@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T12:55:38+00:00",
+  "updated_at": "2026-08-17T01:52:02+00:00",
   "policy": "中国大陆来源优先；台湾地区网站不进入自动采集池；受版权保护图片不直接复制。",
   "sources": [
     {
@@ -46,7 +46,7 @@
         "https://www.chnmuseum.cn/images/guobo202509_inpic5.jpg",
         "https://www.chnmuseum.cn/zl/lszl/lswh/202607/P020260718334510537291.jpg"
       ],
-      "checked_at": "2026-08-16T12:55:33+00:00"
+      "checked_at": "2026-08-17T01:51:55+00:00"
     },
     {
       "name": "中国钱币博物馆",
@@ -60,7 +60,7 @@
       "status": "error:ConnectionError",
       "image_count": 0,
       "image_index": [],
-      "checked_at": "2026-08-16T12:55:33+00:00"
+      "checked_at": "2026-08-17T01:51:56+00:00"
     },
     {
       "name": "国家哲学社会科学文献中心",
@@ -105,7 +105,7 @@
         "https://ft.ncpssd.cn/image/get/npssd/address?url=img/1730881808693.jpg",
         "https://hmcdn.baidu.com/static/hmt/icon/21.gif"
       ],
-      "checked_at": "2026-08-16T12:55:38+00:00"
+      "checked_at": "2026-08-17T01:52:02+00:00"
     }
   ]
 }
