@@ -8,7 +8,6 @@
       "type": "博物馆公开资料",
       "priority": 1,
       "topics": [
-        "宝福局",
         "清代钱币"
       ],
       "status": "ok",
@@ -68,11 +67,9 @@
       "type": "公开文献资料",
       "priority": 1,
       "topics": [
-        "钱币史",
-        "福建历史"
+        "钱币史"
       ],
       "status": "ok",
-      "page_title": "国家哲学社会科学文献中心",
       "image_count": 29,
       "image_index": [
         "https://www.ncpssd.org/images/yasuotupian/icon_fanyi_Azhong.png",
