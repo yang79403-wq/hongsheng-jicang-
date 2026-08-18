@@ -1,6 +1,6 @@
 {
-  "siteName": "洪盛集藏资讯网",
-  "topNotice": "洪盛集藏 · 公益钱币收藏资料平台　|　学习 · 交流 · 研究　|　福建省 厦门 泉州 漳州 福州 成都 均可当天预约交流学习免费鉴定 评估 分享藏品知识 ",
+  "siteName": "洪盛集藏",
+  "topNotice": "洪盛集藏 · 公益钱币收藏资料平台　|　学习 · 交流 · 研究　|　不收取任何费用",
   "heroTitle": "钱币收藏资料与交流平台",
   "heroText": "收藏交流 · 鉴赏参考 · 品相分析 · 市场行情 · 钱币文化研究。所有资料仅供学习、交流、研究参考。",
   "phone": "13799875350",
@@ -29,7 +29,7 @@
   "groups": {
     "market": {
       "title": "最新价格行情",
-      "subtitle": "",
+      "subtitle": "银元 · 机制币合并展示；有资料的栏目自动显示。",
       "items": [
         {
           "id": "market_yinyuan_jizhibi",
@@ -38,7 +38,7 @@
         },
         {
           "id": "market_tongqian",
-          "name": "🪙 古钱行情",
+          "name": "🪙 铜钱行情",
           "enabled": true
         },
         {
@@ -64,7 +64,7 @@
         },
         {
           "id": "tongqian",
-          "name": "🪙 古钱鉴赏",
+          "name": "🪙 铜钱鉴赏",
           "enabled": true
         },
         {
@@ -84,7 +84,7 @@
         },
         {
           "id": "knowledge",
-          "name": "📚 收藏知识",
+          "name": "📚 收藏知识 收藏经验",
           "enabled": true
         },
         {
@@ -99,7 +99,7 @@
         },
         {
           "id": "experience",
-          "name": "💡 收藏经验",
+          "name": "💡 收藏新闻",
           "enabled": true
         }
       ]
@@ -110,7 +110,7 @@
       "items": [
         {
           "id": "fujian_tongqian",
-          "name": "福建古钱",
+          "name": "福建铜钱",
           "enabled": true
         },
         {
