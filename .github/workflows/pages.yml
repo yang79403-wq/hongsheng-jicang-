@@ -26,7 +26,12 @@ jobs:
         run: |
           rm -rf _site
           mkdir -p _site
-          cp -r static/. _site/
+          # 正式网站入口使用仓库根目录的新版 index.html
+          if [ -f "index.html" ]; then cp index.html _site/index.html; fi
+          # 详情页必须与新版首页一起部署
+          if [ -f "detail.html" ]; then cp detail.html _site/detail.html; fi
+          # 保留静态资源、历史页面及数据
+          if [ -d "static" ]; then cp -r static/. _site/; fi
           if [ -d "data" ]; then cp -r data _site/data; fi
           if [ -f "fujian-coin.html" ]; then cp fujian-coin.html _site/fujian-coin.html; fi
           if [ -f "admin.html" ]; then cp admin.html _site/admin.html; fi
