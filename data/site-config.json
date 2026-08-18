@@ -29,7 +29,7 @@
   "groups": {
     "market": {
       "title": "最新价格行情",
-      "subtitle": "银元 · 机制币合并展示；有资料的栏目自动显示。",
+      "subtitle": "银元 · 机制币",
       "items": [
         {
           "id": "market_yinyuan_jizhibi",
