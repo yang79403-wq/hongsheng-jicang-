@@ -26,16 +26,15 @@ jobs:
         run: |
           rm -rf _site
           mkdir -p _site
-          # 正式网站入口使用仓库根目录的新版 index.html
-          if [ -f "index.html" ]; then cp index.html _site/index.html; fi
-          # 详情页必须与新版首页一起部署
-          if [ -f "detail.html" ]; then cp detail.html _site/detail.html; fi
-          # 保留静态资源、历史页面及数据
+          # 先复制静态资源，再复制正式根入口，避免 static/index.html 覆盖新版首页
           if [ -d "static" ]; then cp -r static/. _site/; fi
           if [ -d "data" ]; then cp -r data _site/data; fi
           if [ -f "fujian-coin.html" ]; then cp fujian-coin.html _site/fujian-coin.html; fi
           if [ -f "admin.html" ]; then cp admin.html _site/admin.html; fi
           if [ -d "admin" ]; then cp -r admin _site/admin; fi
+          # 正式网站入口必须最后复制，确保首页使用根目录新版 index.html
+          if [ -f "index.html" ]; then cp index.html _site/index.html; fi
+          if [ -f "detail.html" ]; then cp detail.html _site/detail.html; fi
           touch _site/.nojekyll
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
