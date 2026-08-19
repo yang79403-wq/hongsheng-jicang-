@@ -1,16 +1,16 @@
 {
-  "siteName": "洪盛集藏资讯网",
+  "siteName": "洪盛集藏",
   "topNotice": "洪盛集藏 · 公益钱币收藏资料平台　|　学习 · 交流 · 研究　|　不收取任何费用",
   "heroTitle": "钱币收藏资料与交流平台",
-  "heroText": "收藏交流 · 鉴赏参考 · 品相分析 · 市场行情 · 钱币文化研究。所有资料仅供学习、交流、研究参考。",
+  "heroText": "✅ 收藏交流 ✅ 免费鉴赏参考✅ 品相分析✅ 市场行情分享✅ 真伪交流✅ 收藏知识普及\n⭐ 评级服务交流⭐  提供评级知识⭐ 评级流程、标准及注意事项交流 ⭐ 裸币与评级币收藏建议⭐ PCGS⭐ NGC⭐ PMG⭐ 华夏评级\n注：网站定位为评级知识与送评交流，不替代评级机构作出正式评级结论。\n🏮 钱币收藏研究\n\n老银元收藏交流\n\n袁大头｜船洋｜龙洋等\n\n研究：\n\n年份 · 版式 · 铸造特征 · 品相 · 包浆\n\n⸻\n\n🏮 铜钱古币版别研究\n\n清钱｜古泉｜花钱等\n\n研究：\n\n文字 · 版别 · 铸造 · 历史背景 · 图片特征\n\n🏮 老纸币价值分析\n\n第一套至第四套人民币｜地方纸币等\n\n研究：\n\n版别 · 冠号 · 品相 · 历史 · 市场信息\n\n⸻\n\n🏮 纪念币收藏咨询\n\n流通纪念币｜金银币｜现代纪念币\n\n提供资料查询、收藏交流及行情参考。\n\n🏮 机制币版别交流\n\n\n年份｜版式｜铸造特征｜边齿｜图片对比\n\n\n🏮 品相评估交流\n\n围绕：\n\n磨损｜包浆｜原味状态｜保存状态\n\n进行收藏参考。\n\n\n🏮 真伪知识分享\n\n\n基础辨识思路｜收藏经验｜常见特征学习\n\n\n🏮 市场行情动态\n\n关注：\n\n收藏热点｜成交趋势｜市场行情参考\n\n🏮 收藏体系搭建\n\n帮助藏友建立：\n\n收藏方向｜预算配置｜品种选择｜长期规划\n\n🏮 钱币文化与历史研究\n\n研究：历史背景｜铸造工艺｜钱币文化｜历史故事\n\n\n🏮 藏品保管建议\n\n分享：\n保存｜防潮｜防氧化｜日常保护",
   "phone": "13799875350",
   "theme": {
     "primary": "#741912",
     "accent": "#c49a4b",
     "titleColor": "#741912",
     "bodyColor": "#2b2723",
-    "titleFont": "PingFang SC, Microsoft YaHei, sans-serif",
-    "bodyFont": "PingFang SC, Microsoft YaHei, sans-serif",
+    "titleFont": "Songti SC, STSong, Noto Serif SC, serif",
+    "bodyFont": "-apple-system, BlinkMacSystemFont, PingFang SC, Noto Sans SC, Microsoft YaHei, Arial, sans-serif",
     "titleWeight": 900,
     "cardRadius": 15
   },
