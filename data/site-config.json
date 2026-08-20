@@ -57,7 +57,7 @@
         },
         {
           "id": "market_tongqian",
-          "name": "🪙 古钱行情资料",
+          "name": "🪙 古钱 花钱 行情价参考",
           "enabled": true
         },
         {
@@ -79,6 +79,11 @@
         {
           "id": "tongqian",
           "name": "🪙 铜钱鉴赏",
+          "enabled": true
+        },
+        {
+          "id": "zhibi",
+          "name": "💴 纸币鉴赏",
           "enabled": true
         },
         {
