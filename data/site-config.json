@@ -1,40 +1,25 @@
 {
-  "siteName": "洪盛集藏资讯网",
-  "topNotice": "洪盛集藏 · 公益钱币收藏资料平台　|　学习 · 交流 · 研究　|　不收取任何费用",
-  "heroTitle": "钱币收藏资料与交流平台",
-  "heroText": "收藏交流 · 鉴赏参考 · 品相分析 · 市场行情 · 钱币文化研究。原有资料统一归入对应版块，首页不重复展开，点击版块即可查看完整内容。",
-  "phone": "13799875350",
-  "theme": {"primary":"#7a2a20","accent":"#b99355","titleColor":"#741912","bodyColor":"#2b2723","titleFont":"Songti SC, STSong, Noto Serif SC, serif","bodyFont":"","titleWeight":900,"cardRadius":0},
-  "nav": [
-    {"id":"market","name":"最新价格行情","enabled":true},
-    {"id":"content","name":"收藏交流 · 鉴赏参考","enabled":true},
-    {"id":"fujian","name":"福建钱币","enabled":true},
-    {"id":"consult","name":"免费咨询","enabled":true}
-  ],
-  "groups": {
-    "market": {"title":"最新价格行情","subtitle":"按钱币类别归类展示；有价格的资料显示参考价格。点击进入版块查看完整行情资料。","items":[
-      {"id":"market_yinyuan_jizhibi","name":"🥈 银元 · 机制币行情","enabled":true},
-      {"id":"market_tongqian","name":"🪙 铜钱行情","enabled":true},
-      {"id":"market_tongyuan","name":"🪙 铜元行情","enabled":true},
-      {"id":"market_zhibi","name":"💴 纸币行情","enabled":true}
-    ]},
-    "content": {"title":"收藏交流 · 鉴赏参考","subtitle":"原有收藏研究、鉴赏、评级、真伪、历史、文化与经验内容统一归入对应分类；点击版块查看完整资料。","items":[
-      {"id":"yinyuan_jizhibi","name":"🥈 银元 · 机制币","enabled":true},
-      {"id":"tongqian","name":"🪙 铜钱鉴赏","enabled":true},
-      {"id":"tongyuan","name":"🪙 铜元鉴赏","enabled":true},
-      {"id":"zhibi","name":"💴 纸币鉴赏","enabled":true},
-      {"id":"appreciation","name":"🔎 鉴赏参考","enabled":true},
-      {"id":"knowledge","name":"📚 收藏知识","enabled":true},
-      {"id":"history","name":"📖 钱币历史","enabled":true},
-      {"id":"culture","name":"🏛 收藏文化","enabled":true},
-      {"id":"experience","name":"💡 收藏经验","enabled":true}
-    ]},
-    "fujian": {"title":"福建钱币","subtitle":"集中整理福建地区钱币资料、研究内容与收藏信息；点击分类进入查看。","items":[
-      {"id":"fujian_tongqian","name":"福建铜钱","enabled":true},
-      {"id":"fujian_tongyuan","name":"福建铜币","enabled":true},
-      {"id":"fujian_yinyuan","name":"福建银元","enabled":true},
-      {"id":"fujian_zhibi","name":"福建纸币","enabled":true}
-    ]}
+  "siteName":"洪盛集藏资讯网",
+  "heroTitle":"钱币收藏交流服务",
+  "heroText":"📌 收藏交流｜评级送评｜行情分析　📌 免费鉴定交流｜高价回收｜当天结算",
+  "topNotice":"洪盛集藏 · 公益钱币收藏资料平台　|　学习 · 交流 · 研究　|　不收取任何费用",
+  "phone":"13799875350",
+  "theme":{"primary":"#7a2a20","accent":"#b99355","titleColor":"#741912","bodyColor":"#2b2723","titleFont":"Songti SC, STSong, Noto Serif SC, serif","titleWeight":900,"cardRadius":0},
+  "nav":[{"id":"market","name":"最新价格行情","enabled":true},{"id":"content","name":"收藏交流 · 鉴赏参考","enabled":true},{"id":"fujian","name":"福建钱币","enabled":true},{"id":"services","name":"评级服务","enabled":true},{"id":"advisor","name":"收藏顾问","enabled":true},{"id":"consult","name":"免费咨询","enabled":true}],
+  "groups":{
+    "market":{"title":"最新价格行情","subtitle":"按钱币类别归类展示；有价格的资料显示参考价格。","items":[{"id":"market_yinyuan_jizhibi","name":"🥈 银元 · 机制币行情","enabled":true},{"id":"market_tongqian","name":"🪙 铜钱行情","enabled":true},{"id":"market_tongyuan","name":"🪙 铜元行情","enabled":true},{"id":"market_zhibi","name":"💴 纸币行情","enabled":true}]},
+    "content":{"title":"收藏交流 · 鉴赏参考","subtitle":"收藏研究、鉴赏、评级、真伪、历史、文化与经验内容统一归类。","items":[{"id":"yinyuan_jizhibi","name":"🥈 银元 · 机制币","enabled":true},{"id":"tongqian","name":"🪙 铜钱鉴赏","enabled":true},{"id":"tongyuan","name":"🪙 铜元鉴赏","enabled":true},{"id":"zhibi","name":"💴 纸币鉴赏","enabled":true},{"id":"appreciation","name":"🔎 鉴赏参考","enabled":true},{"id":"knowledge","name":"📚 收藏知识","enabled":true},{"id":"history","name":"📖 钱币历史","enabled":true},{"id":"culture","name":"🏛 收藏文化","enabled":true},{"id":"experience","name":"💡 收藏经验","enabled":true}]},
+    "fujian":{"title":"福建钱币","subtitle":"福建地区钱币资料、研究内容与收藏交流。","items":[{"id":"fujian_tongqian","name":"福建铜钱","enabled":true},{"id":"fujian_tongyuan","name":"福建铜币","enabled":true},{"id":"fujian_yinyuan","name":"福建银元","enabled":true},{"id":"fujian_zhibi","name":"福建纸币","enabled":true}]}
   },
-  "consult": {"enabled":true,"title":"免费鉴定 · 免费估价 · 立即咨询","text":"📍 福建省内周边｜厦门｜泉州｜漳州｜福州｜成都\n🚗 当天可预约上门面对面分析交流"}
+  "serviceSections":[
+    {"id":"services","title":"评级服务交流","subtitle":"评级知识 · 送评指导 · 收藏建议","items":["PCGS 美国评级咨询","NGC 国际评级咨询","PMG 纸币评级咨询","华夏评级送评指导","评级知识交流","评级流程、标准及注意事项交流","裸币与评级币收藏建议"]},
+    {"id":"advisor","title":"收藏顾问服务","subtitle":"为收藏爱好者提供长期交流参考","items":["收藏方向规划","钱币价值分析参考","市场行情交流","收藏投资思路分享","藏品配置建议","收藏风险提示","新手入门指导","玩家交流互动","版本知识学习","长期收藏陪伴"]},
+    {"id":"generalService","title":"综合收藏服务","items":["免费鉴定评估","收藏交流","实时行情资讯","评级送评服务","同城当面交流","回收","寄卖","鉴定","评估"]}
+  ],
+  "collectionScope":["🪙 银元","🪙 古钱币","🪙 机制币","🪙 金银币","🪙 纪念币","📄 老纸币","📮 老邮票","🎖 像章徽章"],
+  "dailyContent":["收藏知识分享","品相鉴赏参考","市场行情交流","收藏文化交流","钱币历史研究","邮票收藏分享","纪念币欣赏","纸币版别交流","收藏经验分享"],
+  "servicePhilosophy":{"title":"服务理念","slogan":"让收藏更专业，让交流更有价值。","text":"坚持以知识分享、市场交流、收藏文化传播为核心，为钱币收藏爱好者提供持续、专业的交流服务，共同学习版别知识、市场趋势与收藏文化，让每一枚钱币都能被真正理解，让每一次收藏都有更清晰的方向。"},
+  "serviceRange":["覆盖全国主要城市线上咨询","福建省内周边","厦门","泉州","漳州","福州","成都","当天可预约上门面对面咨询交流"],
+  "security":["隐私全程保密","提供照片 / 视频线上咨询","免费鉴定、咨询、线上估价参考","正式评级结论以评级机构为准","价格与行情仅作收藏交流参考"],
+  "consult":{"enabled":true,"title":"免费鉴定 · 免费估价 · 立即咨询","text":"📍 福建省内周边｜厦门｜泉州｜漳州｜福州｜成都\n🚗 当天可预约上门面对面分析交流","qrLabel":"📱 扫一扫联系客服"}
 }
