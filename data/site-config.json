@@ -82,11 +82,6 @@
           "enabled": true
         },
         {
-          "id": "zhibi",
-          "name": "💴 纸币鉴赏",
-          "enabled": true
-        },
-        {
           "id": "appreciation",
           "name": "🔎 鉴赏参考",
           "enabled": true
