@@ -1,8 +1,8 @@
 {
   "siteName": "洪盛收藏资讯网",
-  "heroTitle": "钱币收藏资讯 交流 学习 价值分析 市场行情  长期收藏指导",
-  "heroText": "📚 收藏知识｜鉴赏参考｜历史研究　📌 行情资料｜评级知识｜版别研究✅ 真伪交流✅ 品相分析✅ 免费鉴赏",
-  "topNotice": "🏮洪盛收藏资讯网 · 非营利性公益网站免费鉴定 免费估价  🏮提供 学习 · 研究 · 交流　资讯🏮",
+  "heroTitle": "钱币收藏交流平台",
+  "heroText": "📚 收藏知识｜鉴赏参考｜历史研究　📌 行情资料｜评级知识｜公益交流",
+  "topNotice": "洪盛收藏资讯网 · 纯公益钱币收藏资料平台　|　学习 · 研究 · 交流　|　不以营利为目的",
   "phone": "13799875350",
   "theme": {
     "primary": "#7a2a20",
@@ -41,7 +41,7 @@
     },
     {
       "id": "consult",
-      "name": "免费鉴定 免费评估",
+      "name": "免费交流咨询",
       "enabled": true
     }
   ],
@@ -52,22 +52,17 @@
       "items": [
         {
           "id": "market_yinyuan_jizhibi",
-          "name": "🥈 银元 · 机制币行情资料",
+          "name": "🥈 银元 铜元 机制币",
           "enabled": true
         },
         {
           "id": "market_tongqian",
-          "name": "🪙 铜钱行情资料",
-          "enabled": true
-        },
-        {
-          "id": "market_tongyuan",
-          "name": "🪙 铜元行情资料",
+          "name": "🪙 古钱行情资料",
           "enabled": true
         },
         {
           "id": "market_zhibi",
-          "name": "💴 纸币行情资料",
+          "name": "💴 纸币行情报价",
           "enabled": true
         }
       ]
@@ -78,17 +73,12 @@
       "items": [
         {
           "id": "yinyuan_jizhibi",
-          "name": "🥈 银元 · 机制币",
+          "name": "🥈 银元 铜元 机制币",
           "enabled": true
         },
         {
           "id": "tongqian",
           "name": "🪙 铜钱鉴赏",
-          "enabled": true
-        },
-        {
-          "id": "tongyuan",
-          "name": "🪙 铜元鉴赏",
           "enabled": true
         },
         {
@@ -124,30 +114,9 @@
       ]
     },
     "fujian": {
-      "title": "福建钱币研究",
+      "title": "福建铜钱 银元 铜币 纸币",
       "subtitle": "福建地区钱币资料、历史、版别与收藏文化研究交流。",
-      "items": [
-        {
-          "id": "fujian_tongqian",
-          "name": "福建铜钱",
-          "enabled": true
-        },
-        {
-          "id": "fujian_tongyuan",
-          "name": "福建铜币",
-          "enabled": true
-        },
-        {
-          "id": "fujian_yinyuan",
-          "name": "福建银元",
-          "enabled": true
-        },
-        {
-          "id": "fujian_zhibi",
-          "name": "福建纸币",
-          "enabled": true
-        }
-      ]
+      "items": []
     }
   },
   "serviceSections": [
@@ -243,11 +212,11 @@
   "consult": {
     "enabled": true,
     "title": "免费收藏交流 · 免费咨询",
-    "text": "📍 福建省内周边｜厦门｜泉州｜漳州｜福州｜成都｜当天可预约上门交流，其他城市可隔天到达\n📚 仅提供公益性的收藏知识、鉴赏、历史、版别与行情资料交流",
+    "text": "📍 福建省内周边｜厦门｜泉州｜漳州｜福州｜成都\n📚 仅提供公益性的收藏知识、鉴赏、历史、版别与行情资料交流",
     "qrLabel": "📱 扫一扫进行公益交流"
   },
   "publicWelfareNotice": {
     "title": "公益性声明",
-    "text": "本网站为纯公益性钱币收藏资料与交流平台，不以营利为目的，网站发布的图片、文字、行情及数据资料，仅供钱币收藏爱好者学习、研究、收藏参考和交流使用。鉴定、估价、行情等内容均属于交流参考，不构成正式鉴定结论、交易报价或投资建议。"
+    "text": "本网站为纯公益性钱币收藏资料与交流平台，不以营利为目的，不提供买卖、回收、寄卖或变现服务。网站发布的图片、文字、行情及数据资料，仅供钱币收藏爱好者学习、研究、收藏参考和交流使用。鉴定、估价、行情等内容均属于交流参考，不构成正式鉴定结论、交易报价或投资建议。"
   }
 }
