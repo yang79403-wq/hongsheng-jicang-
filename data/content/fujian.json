@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "hs-1787388107752-1kceqe",
+    "title": "8c3149c7f67e98edaa20c6d142e6c883.jpg",
+    "category": "fujian",
+    "kind": "藏品展示",
+    "content": "本地藏品图片资料，供洪盛集藏收藏交流与鉴赏参考。",
+    "summary": "图片资料自动入库。真伪、版别、品相及价值需结合实物和资料进一步研究。",
+    "images": [
+      "/static/uploads/1787388101110-8c3149c7f67e98edaa20c6d142e6c883.jpg"
+    ],
+    "source": "本地资料库",
+    "publishedAt": "2026-08-22T08:41:47.752Z"
+  }
+]
